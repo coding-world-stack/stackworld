@@ -1,4 +1,6 @@
 # stackworld
-this is my first repository
+i am saurav kumar .i am first years btech student at lovely professional university.
 <br>
-author -saurav kumar
+i am currently learning python and generative with AI 
+<br>
+
